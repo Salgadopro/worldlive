@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+body  {
+
+    background-image: radial-gradient(white, blue, green);
+    text-shadow: 2px 2px 2px black;
+
+}
+
+header > h1 { text-align: center;
+    background-image: linear-gradient(green,blue,white);
+    box-shadow: 1px 1px 1px 1px black;
+    border-radius: 30%;
+    color: aliceblue;
+
+}
+
+main > h2 {
+    text-align: center;
+
+
+    background-image: linear-gradient(green,blue,white);
+    box-shadow: 1px 1px 1px black;
+    border-radius: 30%;
+    color: aliceblue;
+
+}
+
+main  {
+
+    text-align: center;
+
+
+}
+
+footer {
+    text-align: center;
+    color: aliceblue;
+
+}
